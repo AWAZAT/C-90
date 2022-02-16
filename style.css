@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: crimson;
+    color: purple;
+    margin: 16px;
+   float: none;
+}
+
+#output{
+ background:aqua;
+ border-radius: 10px;
+ border-top: 10px solid #aa4465;
+ padding: 10px;
+ float: none;
+ text-align:left;
+}
+
+#player1{
+    float: left;
+    background: lightskyblue;
+}
+
+#player2{
+    float: left;
+    background: lightskyblue;
+}
